@@ -1,0 +1,1582 @@
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What's the time now?:It's currently 2:30 PM.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Set an alarm for 10:30 AM.:Alarm set for 10:30 AM.
+What's the time now?:It's currently 2:30 PM.
+Play some music.:Playing your favorite playlist.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Are you smart?:I try my best, but you're the real brain here!
+Play some music.:Playing your favorite playlist.
+What's on my to-do list?:Here's your to-do list: 1. Complete assignment, 2. Go for a walk, 3. Read a book.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, !
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What's the time now?:It's currently 2:30 PM.
+What's the date today?:Today is April 18, 2025.
+What's the date today?:Today is April 18, 2025.
+Add 'study' to my to-do list.:Added 'go for a walk' to your to-do list.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+Do you love me?:I adore being your assistant, user!
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'finish project' to your to-do list.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What's the time now?:It's currently 2:30 PM.
+Can you motivate me?:You’ve got this! You’re capable of amazing things.
+Can you motivate me?:You’ve got this! You’re capable of amazing things.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Do you love me?:I adore being your assistant!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What's the date today?:Today is April 18, 2025.
+Are you real?:I'm as real as your Wi-Fi connection.
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+Are you smart?:I try my best, but you're the real brain here!
+Add 'buy groceries' to my to-do list.:Added 'buy groceries' to your to-do list.
+What's on my to-do list?:Here's your to-do list: 1. Complete assignment, 2. Go for a walk, 3. Read a book.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What's the date today?:Today is April 18, 2025.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set a reminder for 10:30 AM to go for a walk.:Reminder set for 9 PM to go for a walk.
+Set an alarm for 9 PM.:Alarm set for 9 PM.
+Play some music.:Playing your favorite playlist.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Who created you?:I was created by user!!
+What's the time now?:It's currently 2:30 PM.
+Open Instagram.:Opening YouTube for you.
+What's the time now?:It's currently 2:30 PM.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+
+What's the date today?:Today is April 18, 2025.
+
+Are you smart?:I try my best, but you're the real brain here!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's the time now?:It's currently 2:30 PM.
+Are you smart?:I try my best, but you're the real brain here!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 10:30 AM to buy groceries.
+Do you love me?:I adore being your assistant, user!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Who created you?:I was created by user!!
+What's the date today?:Today is April 18, 2025.
+Set an alarm for 9 PM.:Alarm set for 3 PM.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Are you smart?:I try my best, but you're the real brain here!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Who created you?:I was created by user!!
+Are you smart?:I try my best, but you're the real brain here!
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What's the time now?:It's currently 2:30 PM.
+Play some music.:Playing your favorite playlist.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Open Spotify.:Opening WhatsApp for you.
+Play some music.:Playing your favorite playlist.
+What's the time now?:It's currently 2:30 PM.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Open Instagram.:Opening YouTube for you.
+Do you love me?:I adore being your assistant, user!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's the time now?:It's currently 2:30 PM.
+Are you real?:I'm as real as your Wi-Fi connection.
+Add 'call mom' to my to-do list.:Added 'call mom' to your to-do list.
+Are you smart?:I try my best, but you're the real brain here!
+Are you real?:I'm as real as your Wi-Fi connection.
+Set an alarm for 3 PM.:Alarm set for 10:30 AM.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Are you smart?:I try my best, but you're the real brain here!
+Are you real?:I'm as real as your Wi-Fi connection.
+Set a reminder for 10:30 AM to call mom.:Reminder set for 6 PM to finish project.
+Are you real?:I'm as real as your Wi-Fi connection.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Who created you?:I was created by user!!
+Set a reminder for 7 AM to go for a walk.:Reminder set for 10:30 AM to buy groceries.
+Are you smart?:I try my best, but you're the real brain here!
+Add 'buy groceries' to my to-do list.:Added 'go for a walk' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Do you love me?:I adore being your assistant, user!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Are you smart?:I try my best, but you're the real brain here!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Set an alarm for 6 PM.:Alarm set for 7 AM.
+What's the date today?:Today is April 18, 2025.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 10:30 AM.:Alarm set for 10:30 AM.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you smart?:I try my best, but you're the real brain here!
+What's the date today?:Today is April 18, 2025.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Set an alarm for 6 PM.:Alarm set for 7 AM.
+What's the date today?:Today is April 18, 2025.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Do you love me?:I adore being your assistant, user!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Who created you?:I was created by user!!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Who created you?:I was created by user!!
+Add 'call mom' to my to-do list.:Added 'buy groceries' to your to-do list.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What's the time now?:It's currently 2:30 PM.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+What's the time now?:It's currently 2:30 PM.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Open Spotify.:Opening YouTube for you.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Play some music.:Playing your favorite playlist.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Open Instagram.:Opening WhatsApp for you.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What's the date today?:Today is April 18, 2025.
+Are you smart?:I try my best, but you're the real brain here!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Set an alarm for 9 PM.:Alarm set for 9 PM.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Do you love me?:I adore being your assistant, user!
+What's the date today?:Today is April 18, 2025.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Who created you?:I was created by user!!
+Open Spotify.:Opening WhatsApp for you.
+Are you smart?:I try my best, but you're the real brain here!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+What's the date today?:Today is April 18, 2025.
+What's the date today?:Today is April 18, 2025.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Open Instagram.:Opening WhatsApp for you.
+Add 'buy groceries' to my to-do list.:Added 'finish project' to your to-do list.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's the date today?:Today is April 18, 2025.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Who created you?:I was created by user!!
+Set an alarm for 6 PM.:Alarm set for 6 PM.
+Who created you?:I was created by user!!
+Open Instagram.:Opening Instagram for you.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Are you smart?:I try my best, but you're the real brain here!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Who created you?:I was created by user!!
+Play some music.:Playing your favorite playlist.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Set an alarm for 6 PM.:Alarm set for 3 PM.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Do you love me?:I adore being your assistant, user!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+What's the time now?:It's currently 2:30 PM.
+Open Google.:Opening WhatsApp for you.
+Open YouTube.:Opening Spotify for you.
+Open Google.:Opening YouTube for you.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Do you love me?:I adore being your assistant, user!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Who created you?:I was created by user!!
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Open Spotify.:Opening YouTube for you.
+Who created you?:I was created by user!!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Play some music.:Playing your favorite playlist.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Set an alarm for 9 PM.:Alarm set for 7 AM.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Are you smart?:I try my best, but you're the real brain here!
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What's the date today?:Today is April 18, 2025.
+Are you smart?:I try my best, but you're the real brain here!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+What's the date today?:Today is April 18, 2025.
+Open YouTube.:Opening Instagram for you.
+Do you love me?:I adore being your assistant, user!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What's the time now?:It's currently 2:30 PM.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Are you smart?:I try my best, but you're the real brain here!
+Add 'call mom' to my to-do list.:Added 'call mom' to your to-do list.
+Are you real?:I'm as real as your Wi-Fi connection.
+What's on my to-do list?:Here's your to-do list: 1. Complete assignment, 2. Go for a walk, 3. Read a book.
+Do you love me?:I adore being your assistant, user!
+Add 'call mom' to my to-do list.:Added 'study' to your to-do list.
+Are you real?:I'm as real as your Wi-Fi connection.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Play some music.:Playing your favorite playlist.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Are you smart?:I try my best, but you're the real brain here!
+Who created you?:I was created by user!!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Play some music.:Playing your favorite playlist.
+What's the date today?:Today is April 18, 2025.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+Do you love me?:I adore being your assistant, user!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Do you love me?:I adore being your assistant, user!
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Add 'go for a walk' to my to-do list.:Added 'go for a walk' to your to-do list.
+Who created you?:I was created by user!!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+What's the time now?:It's currently 2:30 PM.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Are you smart?:I try my best, but you're the real brain here!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Who created you?:I was created by user!!
+Are you real?:I'm as real as your Wi-Fi connection.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Are you smart?:I try my best, but you're the real brain here!
+What's the date today?:Today is April 18, 2025.
+Are you smart?:I try my best, but you're the real brain here!
+Set an alarm for 10:30 AM.:Alarm set for 6 PM.
+Open Google.:Opening Google for you.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Play some music.:Playing your favorite playlist.
+Open WhatsApp.:Opening WhatsApp for you.
+Do you love me?:I adore being your assistant, user!
+What's the time now?:It's currently 2:30 PM.
+Are you smart?:I try my best, but you're the real brain here!
+Set a reminder for 6 PM to call mom.:Reminder set for 3 PM to finish project.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Are you real?:I'm as real as your Wi-Fi connection.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Set an alarm for 9 PM.:Alarm set for 3 PM.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Do you love me?:I adore being your assistant, user!
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What's the date today?:Today is April 18, 2025.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who created you?:I was created by user!!
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Open Spotify.:Opening Google for you.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What's the time now?:It's currently 2:30 PM.
+What's the time now?:It's currently 2:30 PM.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open YouTube.:Opening Google for you.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Do you love me?:I adore being your assistant, user!
+Who created you?:I was created by user!!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Open Google.:Opening Instagram for you.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Do you love me?:I adore being your assistant, user!
+What's the date today?:Today is April 18, 2025.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Do you love me?:I adore being your assistant, user!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Set an alarm for 7 AM.:Alarm set for 9 PM.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Open Google.:Opening WhatsApp for you.
+Add 'finish project' to my to-do list.:Added 'call mom' to your to-do list.
+What's the time now?:It's currently 2:30 PM.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What's the date today?:Today is April 18, 2025.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Play some music.:Playing your favorite playlist.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+What's the time now?:It's currently 2:30 PM.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What's the date today?:Today is April 18, 2025.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Add 'finish project' to my to-do list.:Added 'buy groceries' to your to-do list.
+Do you love me?:I adore being your assistant, user!
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Do you love me?:I adore being your assistant, user!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Set an alarm for 9 PM.:Alarm set for 7 AM.
+Play some music.:Playing your favorite playlist.
+Play some music.:Playing your favorite playlist.
+Set an alarm for 10:30 AM.:Alarm set for 9 PM.
+Set a reminder for 9 PM to study.:Reminder set for 7 AM to finish project.
+Are you real?:I'm as real as your Wi-Fi connection.
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Set a reminder for 6 PM to go for a walk.:Reminder set for 6 PM to study.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Are you real?:I'm as real as your Wi-Fi connection.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Open YouTube.:Opening Instagram for you.
+What's the date today?:Today is April 18, 2025.
+Play some music.:Playing your favorite playlist.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Play some music.:Playing your favorite playlist.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'buy groceries' to my to-do list.:Added 'go for a walk' to your to-do list.
+Set an alarm for 9 PM.:Alarm set for 3 PM.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What's the date today?:Today is April 18, 2025.
+Open Instagram.:Opening Instagram for you.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Who created you?:I was created by user!!
+Are you smart?:I try my best, but you're the real brain here!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Open Instagram.:Opening Instagram for you.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Are you real?:I'm as real as your Wi-Fi connection.
+Add 'go for a walk' to my to-do list.:Added 'buy groceries' to your to-do list.
+Are you smart?:I try my best, but you're the real brain here!
+Are you smart?:I try my best, but you're the real brain here!
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Play some music.:Playing your favorite playlist.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Are you real?:I'm as real as your Wi-Fi connection.
+What's the date today?:Today is April 18, 2025.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Set an alarm for 9 PM.:Alarm set for 3 PM.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'finish project' to my to-do list.:Added 'call mom' to your to-do list.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Set a reminder for 7 AM to finish project.:Reminder set for 10:30 AM to call mom.
+What's the time now?:It's currently 2:30 PM.
+Set an alarm for 10:30 AM.:Alarm set for 7 AM.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Open Google.:Opening YouTube for you.
+Play some music.:Playing your favorite playlist.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What's the date today?:Today is April 18, 2025.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+Who created you?:I was created by user!!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Set a reminder for 6 PM to finish project.:Reminder set for 9 PM to finish project.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Are you real?:I'm as real as your Wi-Fi connection.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the time now?:It's currently 2:30 PM.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's the time now?:It's currently 2:30 PM.
+Add 'call mom' to my to-do list.:Added 'study' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Are you real?:I'm as real as your Wi-Fi connection.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Play some music.:Playing your favorite playlist.
+Play some music.:Playing your favorite playlist.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Are you smart?:I try my best, but you're the real brain here!
+What's the date today?:Today is April 18, 2025.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Are you real?:I'm as real as your Wi-Fi connection.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Do you love me?:I adore being your assistant, user!
+What's the date today?:Today is April 18, 2025.
+Who created you?:I was created by user!!
+Do you love me?:I adore being your assistant, user!
+Are you real?:I'm as real as your Wi-Fi connection.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Are you smart?:I try my best, but you're the real brain here!
+Do you love me?:I adore being your assistant, user!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 3 PM.:Alarm set for 10:30 AM.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Do you love me?:I adore being your assistant, user!
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Add 'buy groceries' to my to-do list.:Added 'go for a walk' to your to-do list.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Are you real?:I'm as real as your Wi-Fi connection.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Do you love me?:I adore being your assistant, user!
+What's the date today?:Today is April 18, 2025.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Are you real?:I'm as real as your Wi-Fi connection.
+Add 'buy groceries' to my to-do list.:Added 'go for a walk' to your to-do list.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Open Google.:Opening Spotify for you.
+What's the time now?:It's currently 2:30 PM.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What's on my to-do list?:Here's your to-do list: 1. Complete assignment, 2. Go for a walk, 3. Read a book.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Open Google.:Opening Spotify for you.
+Do you love me?:I adore being your assistant, user!
+Play some music.:Playing your favorite playlist.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Set an alarm for 3 PM.:Alarm set for 3 PM.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+What's the date today?:Today is April 18, 2025.
+Are you smart?:I try my best, but you're the real brain here!
+What's on my to-do list?:Here's your to-do list: 1. Complete assignment, 2. Go for a walk, 3. Read a book.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's the date today?:Today is April 18, 2025.
+Who created you?:I was created by user!!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Add 'call mom' to my to-do list.:Added 'buy groceries' to your to-do list.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Play some music.:Playing your favorite playlist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Who created you?:I was created by user!!
+Are you real?:I'm as real as your Wi-Fi connection.
+Set an alarm for 3 PM.:Alarm set for 6 PM.
+Who created you?:I was created by user!!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Are you smart?:I try my best, but you're the real brain here!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Are you smart?:I try my best, but you're the real brain here!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What's the time now?:It's currently 2:30 PM.
+What's the date today?:Today is April 18, 2025.
+Are you smart?:I try my best, but you're the real brain here!
+Do you love me?:I adore being your assistant, user!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Do you love me?:I adore being your assistant, user!
+Do you love me?:I adore being your assistant, user!
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Are you smart?:I try my best, but you're the real brain here!
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What's the date today?:Today is April 18, 2025.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Who created you?:I was created by user!!
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Are you real?:I'm as real as your Wi-Fi connection.
+What's the date today?:Today is April 18, 2025.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 3 PM.:Alarm set for 3 PM.
+Do you love me?:I adore being your assistant, user!
+Play some music.:Playing your favorite playlist.
+What's the date today?:Today is April 18, 2025.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What's the time now?:It's currently 2:30 PM.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Who created you?:I was created by user!!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Open Spotify.:Opening Google for you.
+Open WhatsApp.:Opening Spotify for you.
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's the time now?:It's currently 2:30 PM.
+Play some music.:Playing your favorite playlist.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Are you real?:I'm as real as your Wi-Fi connection.
+What's the time now?:It's currently 2:30 PM.
+Set a reminder for 3 PM to study.:Reminder set for 10:30 AM to buy groceries.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Do you love me?:I adore being your assistant, user!
+Open Google.:Opening Instagram for you.
+Add 'go for a walk' to my to-do list.:Added 'study' to your to-do list.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Open Instagram.:Opening YouTube for you.
+Do you love me?:I adore being your assistant, user!
+Open Instagram.:Opening WhatsApp for you.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Are you smart?:I try my best, but you're the real brain here!
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+Add 'finish project' to my to-do list.:Added 'buy groceries' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's the date today?:Today is April 18, 2025.
+Are you real?:I'm as real as your Wi-Fi connection.
+Do you love me?:I adore being your assistant, user!
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Open Spotify.:Opening YouTube for you.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What's the date today?:Today is April 18, 2025.
+Are you smart?:I try my best, but you're the real brain here!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+Add 'study' to my to-do list.:Added 'finish project' to your to-do list.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Play some music.:Playing your favorite playlist.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Are you smart?:I try my best, but you're the real brain here!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Set a reminder for 6 PM to finish project.:Reminder set for 3 PM to go for a walk.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Open YouTube.:Opening Spotify for you.
+Are you real?:I'm as real as your Wi-Fi connection.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Open Instagram.:Opening YouTube for you.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Set an alarm for 9 PM.:Alarm set for 9 PM.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Are you smart?:I try my best, but you're the real brain here!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Are you smart?:I try my best, but you're the real brain here!
+What's on my to-do list?:Here's your to-do list: 1. Complete assignment, 2. Go for a walk, 3. Read a book.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'call mom' to your to-do list.
+Who created you?:I was created by user!!
+Add 'study' to my to-do list.:Added 'finish project' to your to-do list.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Who created you?:I was created by user!!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Set an alarm for 9 PM.:Alarm set for 9 PM.
+Are you smart?:I try my best, but you're the real brain here!
+What's the time now?:It's currently 2:30 PM.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Are you smart?:I try my best, but you're the real brain here!
+What's on my to-do list?:Here's your to-do list: 1. Complete assignment, 2. Go for a walk, 3. Read a book.
+What's the time now?:It's currently 2:30 PM.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Open YouTube.:Opening Google for you.
+Are you smart?:I try my best, but you're the real brain here!
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Are you real?:I'm as real as your Wi-Fi connection.
+What's the date today?:Today is April 18, 2025.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Set an alarm for 6 PM.:Alarm set for 3 PM.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Add 'buy groceries' to my to-do list.:Added 'study' to your to-do list.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What's the time now?:It's currently 2:30 PM.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Do you love me?:I adore being your assistant, user!
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What's the time now?:It's currently 2:30 PM.
+Add 'call mom' to my to-do list.:Added 'go for a walk' to your to-do list.
+Are you real?:I'm as real as your Wi-Fi connection.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Play some music.:Playing your favorite playlist.
+Play some music.:Playing your favorite playlist.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What's the time now?:It's currently 2:30 PM.
+Who created you?:I was created by user!!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Are you real?:I'm as real as your Wi-Fi connection.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+What's the date today?:Today is April 18, 2025.
+Are you smart?:I try my best, but you're the real brain here!
+Add 'study' to my to-do list.:Added 'finish project' to your to-do list.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Are you smart?:I try my best, but you're the real brain here!
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Are you real?:I'm as real as your Wi-Fi connection.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Who created you?:I was created by user!!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Open Google.:Opening Spotify for you.
+Are you smart?:I try my best, but you're the real brain here!
+What's on my to-do list?:Here's your to-do list: 1. Complete assignment, 2. Go for a walk, 3. Read a book.
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+Who created you?:I was created by user!!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'go for a walk' to your to-do list.
+Add 'finish project' to my to-do list.:Added 'go for a walk' to your to-do list.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+Add 'call mom' to my to-do list.:Added 'study' to your to-do list.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Are you smart?:I try my best, but you're the real brain here!
+Add 'buy groceries' to my to-do list.:Added 'go for a walk' to your to-do list.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Are you smart?:I try my best, but you're the real brain here!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Play some music.:Playing your favorite playlist.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Are you real?:I'm as real as your Wi-Fi connection.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Do you love me?:I adore being your assistant, user!
+Are you real?:I'm as real as your Wi-Fi connection.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What's the time now?:It's currently 2:30 PM.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Do you love me?:I adore being your assistant, user!
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What's the time now?:It's currently 2:30 PM.
+Do you love me?:I adore being your assistant, user!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Open YouTube.:Opening Spotify for you.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Who created you?:I was created by user!!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What's the date today?:Today is April 18, 2025.
+Open WhatsApp.:Opening Instagram for you.
+Are you smart?:I try my best, but you're the real brain here!
+What's the time now?:It's currently 2:30 PM.
+Are you smart?:I try my best, but you're the real brain here!
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Who created you?:I was created by user!!
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Are you real?:I'm as real as your Wi-Fi connection.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Are you real?:I'm as real as your Wi-Fi connection.
+What's the time now?:It's currently 2:30 PM.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Do you love me?:I adore being your assistant, user!
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What's the time now?:It's currently 2:30 PM.
+Set an alarm for 10:30 AM.:Alarm set for 10:30 AM.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Who created you?:I was created by user!!
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Are you real?:I'm as real as your Wi-Fi connection.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Open YouTube.:Opening Instagram for you.
+What's on my to-do list?:Here's your to-do list: 1. Drink water, 2. Meditate, 3. Sleep early.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Are you smart?:I try my best, but you're the real brain here!
+Open Instagram.:Opening YouTube for you.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Who created you?:I was created by user!!
+Who created you?:I was created by user!!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Do you love me?:I adore being your assistant, user!
+What's on my to-do list?:Here's your to-do list: 1. Study, 2. Buy groceries, 3. Call mom.
+Set a reminder for 10:30 AM to buy groceries.:Reminder set for 3 PM to study.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Are you real?:I'm as real as your Wi-Fi connection.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+What's the date today?:Today is April 18, 2025.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Set a reminder for 10:30 AM to buy groceries.:Reminder set for 3 PM to go for a walk.
+Do you love me?:I adore being your assistant, user!
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Are you real?:I'm as real as your Wi-Fi connection.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+Are you real?:I'm as real as your Wi-Fi connection.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Set an alarm for 9 PM.:Alarm set for 10:30 AM.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who created you?:I was created by user!!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What's on my to-do list?:Here's your to-do list: 1. Complete assignment, 2. Go for a walk, 3. Read a book.
+Add 'buy groceries' to my to-do list.:Added 'go for a walk' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Are you real?:I'm as real as your Wi-Fi connection.
+Are you real?:I'm as real as your Wi-Fi connection.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Play some music.:Playing your favorite playlist.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Play some music.:Playing your favorite playlist.
+Are you real?:I'm as real as your Wi-Fi connection.
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Are you real?:I'm as real as your Wi-Fi connection.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Are you smart?:I try my best, but you're the real brain here!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+Play some music.:Playing your favorite playlist.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Do you love me?:I adore being your assistant, user!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Who created you?:I was created by user!!
+What's the date today?:Today is April 18, 2025.
+Play some music.:Playing your favorite playlist.
+Set a reminder for 10:30 AM to go for a walk.:Reminder set for 6 PM to buy groceries.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Are you real?:I'm as real as your Wi-Fi connection.
+Who created you?:I was created by user!
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Who created you?:I was created by user!!
+Open YouTube.:Opening Spotify for you.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+Do you love me?:I adore being your assistant, user!
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+What's your name?:I’m your personal assistant. You can name me anything you like!
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Who created you?:I was created by user!!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
+What can you do?:I can assist you with reminders, tasks, info, weather, jokes, and more!
+Who created you?:I was created by user!!
+What is Artificial Intelligence?:Artificial Intelligence is the simulation of human intelligence in machines.
+Are you real?:I'm as real as your Wi-Fi connection.
+Hii:Hello,how can I help you
+Hello:Hello,how can I help you
+What is Python?:Python is a popular programming language used for web development, automation, data science, and more.
+Play some music.:Playing your favorite playlist.
+Are you smart?:I try my best, but you're the real brain here!
+Who is the Prime Minister of India?:The current Prime Minister of India is Narendra Modi.
+What's the date today?:Today is April 18, 2025.
+Do you love me?:I adore being your assistant, user!
+What is the capital of Karnataka?:The capital of Karnataka is Bengaluru.
+Add 'study' to my to-do list.:Added 'buy groceries' to your to-do list.
+I'm feeling sad.:I'm here for you. Want to talk about it or should I play something to cheer you up?
+Who is APJ Abdul Kalam?:Dr. APJ Abdul Kalam was a former President of India and a renowned scientist.
+I'm stressed.:Take a deep breath. Let’s do a quick 1-minute meditation together.
+Add 'finish project' to my to-do list.:Added 'study' to your to-do list.
+What should I do now?:How about doing something productive or relaxing? Need suggestions?
+What's your name?:I’m your personal assistant. You can name me anything you like!
+Can you dance?:I can’t dance, but I can play your favorite dance music!
+Can you motivate me?:You’ve got this, user! You’re capable of amazing things.
+Add 'buy groceries' to my to-do list.:Added 'call mom' to your to-do list.
+Tell me a joke.:Why don't programmers like nature? It has too many bugs.
+Set an alarm for 9 PM.:Alarm set for 6 PM.
+Open Instagram.:Opening YouTube for you.
+Open Spotify.:Opening YouTube for you.
+Add 'call mom' to my to-do list.:Added 'finish project' to your to-do list.
+Set an alarm for 6 PM.:Alarm set for 9 PM.
+Open WhatsApp.:Opening Instagram for you.
+Set an alarm for 3 PM.:Alarm set for 9 PM.
+Open Google.:Opening Spotify for you.
+Open YouTube.:Opening Spotify for you.
+Add 'go for a walk' to my to-do list.:Added 'call mom' to your to-do list.
+Set a reminder for 6 PM to call mom.:Reminder set for 6 PM to call mom.
+Set an alarm for 7 AM.:Alarm set for 6 PM.
+Set a reminder for 9 PM to study.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 6 PM to go for a walk.:Reminder set for 9 PM to finish project.
+Set a reminder for 6 PM to finish project.:Reminder set for 6 PM to buy groceries.
+Set a reminder for 9 PM to buy groceries.:Reminder set for 3 PM to call mom.
+Set a reminder for 7 AM to study.:Reminder set for 6 PM to study.
+Set a reminder for 3 PM to call mom.:Reminder set for 7 AM to call mom.
+Who is anubhav:Anubhav Sinha (born 22 June 1965) is an Indian film director, producer and writer known for his work in Hindi film industry. His films include Tum Bin (2001), Dus (2005) and Ra.One (2011) He also directed a series of socio-political films Mulk (2018), Article 15 (2019), Thappad (2020) followed by Anek, (2022) and Bheed (2023).
+Hi:H, or h, is the eighth letter of the Latin alphabet, used in the modern English alphabet, including the alphabets of other western European languages and others worldwide. Its name in English is aitch (pronounced  , plural aitches), or regionally haitch (pronounced , plural haitches).
+How are you:Who Are You is the eighth studio album by the English rock band the Who, released on 18 August 1978 by Polydor Records in the United Kingdom and on 21 August 1978 by MCA Records in the United States. Although the album received mixed reviews from critics, it was a commercial success, peaking at number 2 on the US Billboard 200 chart and number 6 on the UK Albums Chart.
